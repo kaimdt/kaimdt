@@ -6,13 +6,13 @@ I currently develop with TypeScript, React, Node.js and Next.js.
 
  Before that I was developing with PHP for a long time.
 
-Go to [my website](https://kaimdt.vercel.app) to learn more about me and my projects.
+Go to [my website](https://kaimdt.com) to learn more about me and my projects.
 
 
 
 ###### Contact me!
 
-Email 📫: inbox@leryon.com
+Email 📫: inbox@kaimdt.com
 
 <!--
 **kaimdt/kaimdt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
