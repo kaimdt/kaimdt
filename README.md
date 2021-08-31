@@ -1,4 +1,4 @@
-##### Hi. I'm Kai, I'm 17 years old and I'm from Germany. I am a self-taught full-stack javascript engineer with 2 years of experience. This September I will start an apprenticeship as an IT specialist for application development. I have always been passionate about programming and have already gained some experience in different areas. As a result, I have specialized in development with NodeJS and Python.
+##### Hi. I'm Kai, I'm 17 years old and I'm from Germany. I am a self-taught full-stack javascript engineer with 2 years of experience. I am currently training to become an IT specialist for application development. I have always been passionate about programming and have already gained some experience in different areas. As a result, I have specialized in development with NodeJS and Python.
 
 ```
 I currently develop with:
