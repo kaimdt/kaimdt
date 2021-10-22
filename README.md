@@ -3,11 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaimdt&label=Profile%20views&color=0e75b6&style=flat" alt="kaimdt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaimdt" alt="kaimdt" /></a> </p>
+- 🔭 I’m currently working on [CampCurse](https://campcurse.com)
+
+- 🌱 I’m currently learning **Laravel**
+
+- 👨‍💻 All of my projects are available at [https://kaimdt.com/projects](https://kaimdt.com/projects)
+
+- 📝 I regularly write articles on [https://kaimdt.com/blog](https://kaimdt.com/blog)
 
 - 💬 Ask me about **react, nextjs, php, python**
 
 - 📫 How to reach me **inbox@kaimdt.com**
+
+- 📄 Know about my experiences [https://kaimdt.com/skills](https://kaimdt.com/skills)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
