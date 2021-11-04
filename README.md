@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kai</h1>
-<h3 align="center">I am a self-taught full-stack javascript engineer with 2 years of experience</h3>
+<h3 align="center">I am a self-taught full-stack javascript engineer with 3 years of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaimdt&label=Views&color=ffcc00&style=flat" alt="kaimdt" /> </p>
 
