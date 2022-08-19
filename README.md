@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kai</h1>
 <h3 align="center">I am a self-taught full-stack javascript engineer with 3 years of experience</h3>
 
+<img src="https://github.com/kaimdt/kaimdt/blob/main/GitHub%20Banner.png" alt="banner" />
+
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lucnema) 
 
