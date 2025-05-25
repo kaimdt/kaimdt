@@ -1,16 +1,20 @@
 # Hey there! 👋
 
-Welcome to my GitHub profile! I'm a 21-year-old **Software Developer** and **CEO** at [Leryon](https://leryon.com). I’ve been passionate about coding since I was 12 years old, and over the years, I’ve turned that passion into my profession. I’m a trained **Application Developer** and love building innovative solutions that push the boundaries of technology.
+Welcome to my GitHub profile!  
+I'm a passionate **Developer** and **UI/UX Designer**—and also the CEO & Lead Developer at [Leryon](https://leryon.com). Since I wrote my first lines of code at 12, I've been hooked on building digital experiences that are both powerful and beautiful.
 
-### A little about me:
-- 💻 I've been coding for almost a decade now, and it still feels like day one!
-- 🚀 CEO & Lead Developer at [Leryon](https://leryon.com)
-- 🎓 Trained as an **Application Developer** (Fachinformatiker Anwendungsentwicklung)
-- 🌱 Always learning something new—whether it's a new language, framework, or tech trend.
-- 🛠️ In my free time, I work on exciting projects with my team at Leryon.
+## 🚀 About Me
+
+- 👨‍💻 **CEO & Lead Developer** at [Leryon](https://leryon.com)
+- 🎨 **UI/UX Designer**: I love creating intuitive, user-centered interfaces
+- 🦀 **Main languages:** Rust & TypeScript
+- 🎓 **Background:** Trained Application Developer (Fachinformatiker Anwendungsentwicklung)
+- 🌱 **Always learning:** New languages, frameworks, and design trends keep me inspired
 
 ### Languages & Tools:
 Here are some of the languages I’m currently working with:
+
+[![My Skills](https://skillicons.dev/icons?i=rust,typescript,cpp,go,php,html&perline=3)](https://skillicons.dev)
 
 - **TypeScript**
 - **JavaScript**
