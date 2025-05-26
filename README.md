@@ -7,7 +7,7 @@ I'm a passionate **Developer** and **UI/UX Designer**—and also the CEO & Lead 
 
 - 👨‍💻 **CEO & Lead Developer** at [Leryon](https://leryon.com)
 - 🎨 **UI/UX Designer**: I love creating intuitive, user-centered interfaces
-- 🦀 **Main languages:** Rust & TypeScript
+- 🦀 **Main languages:** Rust, C++ & TypeScript
 - 🎓 **Background:** Trained Application Developer (Fachinformatiker Anwendungsentwicklung)
 - 🌱 **Always learning:** New languages, frameworks, and design trends keep me inspired
 
