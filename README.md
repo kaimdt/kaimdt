@@ -19,6 +19,7 @@ Here are some of the languages I’m currently working with:
 - **TypeScript**
 - **JavaScript**
 - **Rust**
+- **C++**
 - **Python**
 - **Go**
 
