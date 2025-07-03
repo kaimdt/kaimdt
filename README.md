@@ -1,33 +1,37 @@
-# Hey there! 👋
+# Hi, I'm Kai! 👋
 
-Welcome to my GitHub profile!  
-I'm a passionate **Developer** and **UI/UX Designer**—and also the CEO & Lead Developer at [Leryon](https://leryon.com). Since I wrote my first lines of code at 12, I've been hooked on building digital experiences that are both powerful and beautiful.
+I'm a **Fullstack Developer**, **UI/UX Designer**, and the Creator of [Leryon](https://leryon.com). My passion is building seamless digital experiences—from backend logic to pixel-perfect interfaces—across all platforms.
 
 ## 🚀 About Me
 
-- 👨‍💻 **CEO & Lead Developer** at [Leryon](https://leryon.com)
-- 🎨 **UI/UX Designer**: I love creating intuitive, user-centered interfaces
-- 🦀 **Main languages:** Rust, C++ & TypeScript
-- 🎓 **Background:** Trained Application Developer (Fachinformatiker Anwendungsentwicklung)
-- 🌱 **Always learning:** New languages, frameworks, and design trends keep me inspired
+- 👨‍💻 **Creator** of [Leryon](https://leryon.com)
+- 🦀 **Backend:** Rust (main), C++, Go, Python
+- ⚡ **Frontend:** TypeScript, Next.js, React, JavaScript
+- 🖥️ **Desktop Apps:** Tauri 2.0, Electron (cross-platform)
+- 📱 **Mobile Apps:** Platform-agnostic development
+- 🧠 **AI/LLM:** Actively training custom Large Language Models (LLMs)
+- 🎨 **UI/UX:** Professional interface and experience design
+- 🔄 **CI/CD & DevOps:** Building robust pipelines and automation
+- 🏡 **Homelab Enthusiast:** Proxmox, Home Assistant, self-hosting everything
 
-### Languages & Tools:
-Here are some of the languages I’m currently working with:
+## 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=rust,typescript,cpp,go,php,html&perline=3)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=rust,typescript,cpp,go,python,react,nextjs,tauri,electron,html,css,js,proxmox,homeassistant&perline=8)
+- **Tauri 2.0**, **Electron** (desktop) | **React** (frontend)
+- **CI/CD:** GitHub Actions, Docker, etc.
+- **Proxmox**, **Home Assistant** (automation & homelab)
 
-- **TypeScript**
-- **JavaScript**
-- **Rust**
-- **C++**
-- **Python**
-- **Go**
+## 🌱 What I'm Working On
 
-### What I’m up to:
-When I’m not coding or managing projects at Leryon, you’ll probably find me experimenting with new technologies, contributing to open-source projects, or brainstorming the next big thing in software development.
+- Training and fine-tuning my own LLMs and experimenting with AI-driven apps
+- Building secure SSO and authentication systems with Rust and MongoDB
+- Developing cross-platform desktop and mobile apps
+- Designing intuitive, accessible UI components with a focus on precision
+- Automating my homelab and integrating smart home solutions
 
-Feel free to check out some of my repositories below or reach out if you want to collaborate on something cool! 😎
+## 🤝 Let's Connect
 
----
+Open for collaboration, open-source, and innovative projects.  
+Check out my repos below or reach out if you want to build something awesome together!
 
-Thanks for stopping by! 😊
+Thanks for visiting! 🚀
