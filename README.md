@@ -14,6 +14,18 @@ I'm a **Fullstack Developer**, **UI/UX Designer**, and the Creator of [Leryon](h
 - 🔄 **CI/CD & DevOps:** Building robust pipelines and automation
 - 🏡 **Homelab Enthusiast:** Proxmox, Home Assistant, self-hosting everything
 
+## 🧑‍💻 Platforms & Tools
+
+💻 **Operating Systems:**  
+Windows 10/11, Windows Server, macOS, Linux (Ubuntu, openSUSE)
+
+🐋 **Containerization & Virtualization:**  
+Docker, Windows Containers, LXD/LXC, Proxmox VE
+
+☁️ **Cloud**: AWS (Amazon Web Services)
+
+My homelab runs on Proxmox, and I’m passionate about automation and self-hosting.
+
 ## 🛠️ Languages & Tools
 
 ![My Skills](https://skillicons.dev/icons?i=rust,typescript,cpp,go,python,react,nextjs,tauri,electron,html,css,js,proxmox,homeassistant&perline=8)
