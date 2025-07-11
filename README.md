@@ -1,10 +1,10 @@
 # Hi, I'm Kai! 👋
 
-I'm a **Fullstack Developer**, **UI/UX Designer**, and the Creator of [Leryon](https://leryon.com). My passion is building seamless digital experiences—from backend logic to pixel-perfect interfaces—across all platforms.
+I'm a **Fullstack Developer**, **UI/UX Designer**, and the Creator of [Leryon](https://leryon.com). My passion is building seamless digital experiences-from backend logic to pixel-perfect interfaces-across all platforms.
 
 ## 🚀 About Me
 
-- 👨‍💻 **Creator** of [Leryon](https://leryon.com)
+- 👨💻 **Creator** of [Leryon](https://leryon.com)
 - 🦀 **Backend:** Rust (main), C++, Go, Python
 - ⚡ **Frontend:** TypeScript, Next.js, React, JavaScript
 - 🖥️ **Desktop Apps:** Tauri 2.0, Electron (cross-platform)
@@ -14,17 +14,17 @@ I'm a **Fullstack Developer**, **UI/UX Designer**, and the Creator of [Leryon](h
 - 🔄 **CI/CD & DevOps:** Building robust pipelines and automation
 - 🏡 **Homelab Enthusiast:** Proxmox, Home Assistant, self-hosting everything
 
-## 🧑‍💻 Platforms & Tools
+## 🧑💻 Platforms & Tools
 
-💻 **Operating Systems:**  
+💻 **Operating Systems:**
 Windows 10/11, Windows Server, macOS, Linux (Ubuntu, openSUSE)
 
-🐋 **Containerization & Virtualization:**  
+🐋 **Containerization & Virtualization:**
 Docker, Windows Containers, LXD/LXC, Proxmox VE
 
 ☁️ **Cloud**: AWS (Amazon Web Services)
 
-My homelab runs on Proxmox, and I’m passionate about automation and self-hosting.
+My homelab runs on Proxmox, and I'm passionate about automation and self-hosting.
 
 ## 🛠️ Languages & Tools
 
@@ -32,6 +32,12 @@ My homelab runs on Proxmox, and I’m passionate about automation and self-hosti
 - **Tauri 2.0**, **Electron** (desktop) | **React** (frontend)
 - **CI/CD:** GitHub Actions, Docker, etc.
 - **Proxmox**, **Home Assistant** (automation & homelab)
+- **Messaging & Workers:** RabbitMQ, Celery
+
+## 🗃️ Databases & Storage
+
+- **Relationale DBs:** PostgreSQL, MariaDB, Microsoft SQL Server (MSSQL)
+- **NoSQL & Caching:** MongoDB, Redis
 
 ## 🌱 What I'm Working On
 
@@ -43,7 +49,7 @@ My homelab runs on Proxmox, and I’m passionate about automation and self-hosti
 
 ## 🤝 Let's Connect
 
-Open for collaboration, open-source, and innovative projects.  
+Open for collaboration, open-source, and innovative projects.
 Check out my repos below or reach out if you want to build something awesome together!
 
 Thanks for visiting! 🚀
