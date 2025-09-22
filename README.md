@@ -11,20 +11,29 @@ I'm a **Fullstack Developer**, **UI/UX Designer**, and the Creator of [Leryon](h
 - 📱 **Mobile Apps:** Platform-agnostic development
 - 🧠 **AI/LLM:** Actively training custom Large Language Models (LLMs)
 - 🎨 **UI/UX:** Professional interface and experience design
-- 🔄 **CI/CD & DevOps:** Building robust pipelines and automation
+- 🔄 **CI/CD & DevOps:** Building reliable pipelines and automation
 - 🏡 **Homelab Enthusiast:** Proxmox, Home Assistant, self-hosting everything
 
 ## 🧑💻 Platforms & Tools
 
 💻 **Operating Systems:**
-Windows 10/11, Windows Server, macOS, Linux (Ubuntu, openSUSE)
+
+- Windows 11
+- Windows Server
+- macOS
+- Linux (Debian-based, RHEL, openSUSE)
 
 🐋 **Containerization & Virtualization:**
-Docker, Windows Containers, LXD/LXC, Proxmox VE
 
-☁️ **Cloud**: AWS (Amazon Web Services)
+- Docker
+- Apple Containers
+- Windows Containers
+- LXD/LXC
+- Proxmox VE
 
-My homelab runs on Proxmox, and I'm passionate about automation and self-hosting.
+☁️ **Cloud & Hosting**: 
+- AWS (Amazon Web Services)
+- Hetzner (Cloud & Dedicated)
 
 ## 🛠️ Languages & Tools
 
@@ -36,7 +45,7 @@ My homelab runs on Proxmox, and I'm passionate about automation and self-hosting
 
 ## 🗃️ Databases & Storage
 
-- **Relationale DBs:** PostgreSQL, MariaDB, Microsoft SQL Server (MSSQL)
+- **Relational DBs:** PostgreSQL, MariaDB, Microsoft SQL Server (MSSQL)
 - **NoSQL & Caching:** MongoDB, Redis
 
 ## 🌱 What I'm Working On
