@@ -47,18 +47,3 @@ I'm a **Fullstack Developer**, **UI/UX Designer**, and the Creator of [Leryon](h
 
 - **Relational DBs:** PostgreSQL, MariaDB, Microsoft SQL Server (MSSQL)
 - **NoSQL & Caching:** MongoDB, Redis
-
-## 🌱 What I'm Working On
-
-- Training and fine-tuning my own LLMs and experimenting with AI-driven apps
-- Building secure SSO and authentication systems with Rust and MongoDB
-- Developing cross-platform desktop and mobile apps
-- Designing intuitive, accessible UI components with a focus on precision
-- Automating my homelab and integrating smart home solutions
-
-## 🤝 Let's Connect
-
-Open for collaboration, open-source, and innovative projects.
-Check out my repos below or reach out if you want to build something awesome together!
-
-Thanks for visiting! 🚀
