@@ -5,11 +5,11 @@ I'm a **Fullstack Developer**, **UI/UX Designer**, and the Creator of [Leryon](h
 ## 🚀 About Me
 
 - 👨💻 **Creator** of [Leryon](https://leryon.com)
-- 🦀 **Backend:** Rust (main), C++, Go, Python
+- 🦀 **Backend:** Rust (main), C++, C#, Go, Python
 - ⚡ **Frontend:** TypeScript, Next.js, React, JavaScript
 - 🖥️ **Desktop Apps:** Tauri 2.0, Electron (cross-platform)
 - 📱 **Mobile Apps:** Platform-agnostic development
-- 🧠 **AI/LLM:** Actively training custom Large Language Models (LLMs)
+- 🧠 **AI/LLM:** Designing & integrating AI systems for Leryon’s infrastructure
 - 🎨 **UI/UX:** Professional interface and experience design
 - 🔄 **CI/CD & DevOps:** Building reliable pipelines and automation
 - 🏡 **Homelab Enthusiast:** Proxmox, Home Assistant, self-hosting everything
@@ -41,7 +41,7 @@ I'm a **Fullstack Developer**, **UI/UX Designer**, and the Creator of [Leryon](h
 - **Tauri 2.0**, **Electron** (desktop) | **React** (frontend)
 - **CI/CD:** GitHub Actions, Docker, etc.
 - **Proxmox**, **Home Assistant** (automation & homelab)
-- **Messaging & Workers:** RabbitMQ, Celery
+- **Messaging & Workers:** RabbitMQ, Celery, Temporal.io
 
 ## 🗃️ Databases & Storage
 
